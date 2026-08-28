@@ -1,0 +1,5 @@
+# Arquivos temporários do Power BI e do Windows
+~$*.pbix
+*.tmp
+Thumbs.db
+Desktop.ini
